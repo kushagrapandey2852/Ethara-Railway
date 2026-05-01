@@ -4,6 +4,15 @@ A Full Stack Team Task Management Web Application built to streamline project co
 
 ---
 
+# 👥 Demo Credentials
+
+| Login Type   | ID/Email                                        | Password  |
+| ------------ | ----------------------------------------------- | --------- |
+| Admin Login  | [admin@example.com](mailto:admin@example.com)   | admin123  |
+| Member Login | [member@example.com](mailto:member@example.com) | member123 |
+
+---
+
 # 🚀 Features
 
 ## 🔐 Authentication & Authorization
@@ -133,31 +142,25 @@ node server.js
 
 ---
 
-# 🌐 Running the Application
+# 🌐 Live Deployment
 
-After starting the server:
+The application is deployed and accessible at:
+
+```bash
+https://web-production-da2fe.up.railway.app/login
+```
+
+---
+
+# 💻 Running Locally
+
+After starting the server locally:
 
 ```bash
 http://localhost:3000
 ```
 
 ---
-
-# 👥 Demo Credentials
-
-## Admin
-
-```bash
-Email: admin@example.com
-Password: admin123
-```
-
-## Member
-
-```bash
-Email: member@example.com
-Password: member123
-```
 
 ---
 
